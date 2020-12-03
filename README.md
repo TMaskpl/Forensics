@@ -1,2 +1,2 @@
 # Forensics
-Analiza systemu, pamięci, procesów
+Analiza systemu, pamięci, procesów pod kontem malware
